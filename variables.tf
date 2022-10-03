@@ -1,13 +1,13 @@
 variable "databricks_account_username" {
-  default = "sampark02@gmail.com"
+  default = "samXXX2@gmail.com"
 }
 
 variable "databricks_account_password" {
-  default = "Databricks@123"
+  default = "DaXXXXXX@3"
 }
 
 variable "databricks_account_id" {
-  default = "d72fad77-a08e-424d-a8fe-966695656d13"
+  default = "d72fad77-aXXXXXXX-d13"
 }
 
 variable "tags" {
